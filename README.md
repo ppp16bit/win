@@ -39,4 +39,5 @@ a window will open with the ASCII art rendered in **white text on a black backgr
 
 obligatory screenshot
 
-![screenshot](preview.png)
+![preview](https://github.com/user-attachments/assets/9f80bf26-734a-4dae-9c57-a2d0e0c1d081)
+
