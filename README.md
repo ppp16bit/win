@@ -24,8 +24,7 @@ you can use:
 
 ## how to compile 
 
-Se você estiver usando o **g++** com suporte a Win32 (como no MinGW):
-
+if you are using **g++** with Win32 support (like in MinGW):
 ``bash
 g++ -o winn.exe win.cpp -mwindows
 ``
